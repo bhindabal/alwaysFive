@@ -1,0 +1,76 @@
+* {
+	font-family: 'Delius Unicase', cursive;
+	font-weight: lighter;
+	color: #faebd7
+}
+body {
+	background: url(https://images4.alphacoders.com/246/246226.jpg);
+	background-size: cover;
+}	
+.h3 {
+	font-size: 35px;
+	margin: 1% 42%;
+	color: #faebd7 !important
+}
+
+p {
+	display: block;
+}
+
+#head {
+	text-align: left;
+	margin: 0% 18%;
+	font-size: 60px;
+	font-family: 'Bungee Inline', cursive;
+	color: red
+}
+
+#button {
+	margin: 1% 47%;
+	box-shadow: 4px 4px 5px red;
+	border: transparent;
+	border-radius: 4px;
+	background-color: #faebd7;
+	color: blue;
+}
+#arrow i {
+	color: red
+}
+ #input {
+ 	margin: 1% 35%;
+ 	width: 20%;
+ }
+
+ #arrow {
+ 	margin: 1% 29%;
+ }
+ #five {
+ 	opacity: 0
+ }
+ .show {
+ 	margin: 1% 29%;
+ 	font-size: 30px;
+ 	font-weight: lighter;
+ 	color: red;
+ 	opacity: 1 !important
+ }
+ #arrow em {
+ 	color: lightyellow
+ }
+ #directions {
+ 	margin: 1% 25%;
+ 	border: 1px solid black;
+ 	width: 20%;
+ 	padding: 1%
+ }
+ .arrow {
+ 	margin: 1% 40%;
+ 	font-size: 25px;
+ }
+button {
+	font-size: 9px
+}
+.delete {
+	display: none !important
+}
+
